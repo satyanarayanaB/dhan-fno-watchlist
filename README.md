@@ -49,7 +49,7 @@ Add the following 4 secrets:
 |---|---|---|
 | `DHAN_CLIENT_ID` | Your Dhan Client ID | Found on `web.dhan.co` |
 | `DHAN_ACCESS_TOKEN` | Dhan API JWT Access Token | Generated via DhanHQ Trading APIs |
-| `TELEGRAM_BOT_TOKEN` | Your Telegram Bot Token | `8958905804:AAHz1zH_emc5vIRzR6w6nRG-gTYaBphVtWk` |
+| `TELEGRAM_BOT_TOKEN` | Your Telegram Bot Token | '8905804:AAHz1zH_emc5vIRzR6w6nRG-gTYaBphVtWk` |
 | `TELEGRAM_CHAT_ID` | Your Telegram Chat ID | `1887514291` |
 
 ### Step 3: Trigger a Manual Test Run
